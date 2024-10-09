@@ -15,7 +15,7 @@ This is a simple String Calculator that sums numbers from a string input based o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/string_calculator.git
+   git clone https://github.com/Bhavna25/TDD_Assessment.git OR https://github.com/yourusername/TDD_Assessment.git
    cd string_calculator
 
 2. Run the tests:
